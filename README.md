@@ -7,6 +7,8 @@ host-name, user,password,database,(While Establishing the first Connection)accor
 
 2) Make sure to change the name of database to you your personal  databse name inside connections_clone in
 function like:create_database,delete_database
+
+3) Change the From python_file import connection_clone to import connection_clone(or any other pathway according to your folder structure)
 .
 3) Be Sure to personalize the connections_clone for your machine and ENjoy..
 
